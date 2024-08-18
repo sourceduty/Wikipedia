@@ -28,6 +28,8 @@ In both cases, the challenge lies in balancing the need for public information a
 [WW2](https://github.com/sourceduty/WW2)
 <br>
 [Public Work](https://github.com/sourceduty/Public_Work)
+<br>
+[Donald Trump Shooting](https://github.com/sourceduty/Donald_Trump_Shooting)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
