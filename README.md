@@ -21,6 +21,38 @@ Similarly, the recording and public display of mass shootings can have both info
 In both cases, the challenge lies in balancing the need for public information and the responsibility to prevent the unintended promotion of violence. Media outlets and public platforms must navigate this delicate balance by reporting on terrorism and mass shootings responsibly, focusing on the impact and responses rather than sensationalizing the perpetrators.
 
 #
+### Shooting Terrorist Points Awards
+
+|Death Cause           | Death Machine           | Points Awarded |
+|--------------------|--------------------------|-------------|
+Shooting              | Automated turret        | 140
+Shooting              | Sniper bot              | 130
+Shooting              | Machine gun nest        | 120
+Shooting              | Gatling gun trap        | 150
+Shooting              | Crossbow turret         | 110
+Shooting              | Rocket launcher         | 160
+Shooting              | Laser cannon            | 170
+Shooting              | Plasma rifle            | 155
+Shooting              | Shotgun trap            | 125
+Shooting              | Homing missile system   | 180
+Shooting              | Railgun                 | 165
+Shooting              | Mounted machine gun     | 135
+Shooting              | Flare gun               | 105
+Shooting              | Poison dart trap        | 115
+Shooting              | Tranquilizer gun        | 90
+Shooting              | Electric dart gun       | 145
+Shooting              | Harpoon gun             | 130
+Shooting              | Needle gun              | 110
+Shooting              | Auto-targeting rifle    | 150
+Shooting              | Taser gun               | 95
+
+<br>
+
+The conceptual table of shooting-related death machines presents a variety of lethal devices, each offering different point values based on their level of difficulty or sophistication. Automated turrets and sniper bots, common in many shootings, provide significant challenges and award high points, ranging from 130 to 140. More powerful weapons like the rocket launcher and homing missile system, which deal massive damage and are harder to evade, offer the highest point rewards at 160 and 180, respectively. On the lower end, simpler traps such as poison dart traps and flare guns yield fewer points, reflecting their limited lethality or ease of avoidance, with awards ranging from 105 to 115 points.
+
+Weapons that combine precision and power, like railguns and laser cannons, sit near the top of the points scale, rewarding players with 165 to 170 points for kills, highlighting their destructive potential. Unique weapons such as electric dart guns or tranquilizer guns add a layer of complexity, offering strategy but slightly lower rewards in the 90 to 145-point range. The variety of shooting death machines in the table reflects a balance of lethality, skill requirement, and strategic importance, making each option viable depending on the shooter's tactical needs or the challenge level they wish to face.
+
+#
 ### Related Links
 
 [Terrorism](https://github.com/sourceduty/Terrorism)
